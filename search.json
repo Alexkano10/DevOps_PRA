@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "mi-practica-quarto",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
     "objectID": "contact.html",
     "href": "contact.html",
     "title": "Contact",
@@ -19,12 +26,5 @@
     "title": "About",
     "section": "",
     "text": "About my technologies\n\nTecnologías\n\n\n\n\n\n\n\n\nTecnología\nNivel\nComentarios\n\n\n\n\nSpring Boot\nIntermedio\nFramework para aplicaciones web en Java.\n\n\nJPA / Hibernate\nIntermedio\nManejo de bases de datos en aplicaciones Java.\n\n\nH2\nBásico\nBase de datos ligera utilizada en pruebas.\n\n\nAWS\nBásico\nConocimientos en servicios de nube de Amazon.\n\n\nKubernetes\nBásico\nOrquestación de contenedores.\n\n\nDocker\nIntermedio\nContenedores para aplicaciones.\n\n\nJenkins\nBásico\nHerramienta de integración continua.\n\n\nGit/GitHub\nAvanzado\nControl de versiones y gestión de código.\n\n\nQuarto\nBásico\nCreación de documentación interactiva.\n\n\nMermaid\nBásico\nDiagramas y visualizaciones en Markdown."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "mi-practica-quarto",
-    "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
   }
 ]
